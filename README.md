@@ -95,7 +95,7 @@ wp-content/themes/twenty-twenty-five.zip (extract it) - Base theme used for the 
 
 ## 🌐 Live Demo
 
-🔗 **Hosted Version:** [https://your-hosted-link.com](https://your-hosted-link.com)
+🔗 **Hosted Version:** [https://jewelith.iceiy.com/](https://jewelith.iceiy.com/)
 
 ---
 
