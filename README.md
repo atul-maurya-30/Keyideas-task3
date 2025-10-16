@@ -1,7 +1,7 @@
 # 🛒 WooCommerce Shop Website (Using WooCommerce Plugin)
 
 This project is a **WooCommerce-based shop website** built using **WordPress** and the official **WooCommerce plugin**.  
-It includes product catalog functionality, a cart system, and an order placement process — replicating a complete e-commerce workflow.
+It includes product catalog functionality, a cart system, and an order placement process - replicating a complete e-commerce workflow.
 
 This task focuses on integrating the WooCommerce plugin properly, configuring product imports, and creating a custom theme component to display products.
 
